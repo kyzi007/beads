@@ -1,5 +1,5 @@
 # coding=utf-8
-from utils import *
+from termformat import *
 import colorama
 
 colorama.init()
