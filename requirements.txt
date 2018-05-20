@@ -3,3 +3,4 @@ json
 pygments
 tabulate
 colorama
+werkzeug
