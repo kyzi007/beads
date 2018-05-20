@@ -1,0 +1,5 @@
+yaml
+json
+pygments
+tabulate
+colorama
